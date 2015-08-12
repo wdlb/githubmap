@@ -10,6 +10,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "rocket",
         "name": "name"
       },
       "geometry": {
